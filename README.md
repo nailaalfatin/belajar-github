@@ -1,2 +1,1 @@
-#Belajar Github
-Belajar github binus
+Belajar Github
